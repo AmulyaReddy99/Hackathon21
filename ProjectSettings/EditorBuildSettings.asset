@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Tiny_Toony_City_Demo/Scenes/Menu.unity
+    guid: 948d648da9cb6ee4ba8b36fc80de0c50
+  - enabled: 1
     path: Assets/Tiny_Toony_City_Demo/Scenes/VirusMode.unity
     guid: c666f6813605349428453719d7ae67a0
   - enabled: 1
